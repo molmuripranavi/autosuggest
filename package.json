@@ -1,0 +1,20 @@
+{
+  "name": "autosuggest",
+  "version": "1.0.0",
+  "description": "verify my git set_uo :)\r I succesfully made the commit :)",
+  "homepage": "https://github.com/molmuripranavi/autosuggest#readme",
+  "bugs": {
+    "url": "https://github.com/molmuripranavi/autosuggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molmuripranavi/autosuggest.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
