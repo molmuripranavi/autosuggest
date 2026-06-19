@@ -37,3 +37,17 @@ h1{
 body{
     margin: 0px;
 }
+.card{
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    width: 200px;
+    text-align: center;
+    margin: 20px auto;
+}
+.card img{
+    width: 100%;
+}
+#user{
+    color:black
+}
