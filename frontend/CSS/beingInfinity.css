@@ -1,0 +1,14 @@
+.gear{
+    position:fixed;
+    top:10px;
+    left:20px;
+}
+.pill{
+    position:fixed;
+    top:10px;
+    left:40px;
+}
+.main-content{
+    padding: 20px;
+    text-align: center;
+}
