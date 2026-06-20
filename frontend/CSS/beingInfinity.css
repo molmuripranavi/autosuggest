@@ -23,12 +23,26 @@
     left: 30px;
 }
 #search-box{
+    width: 500px;
+    height: 40px;
     border-radius: 20px;
     padding-left: 30px;
     padding-right: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
 .search-box{
     border-color:rgb(202, 201, 201)
+}
+#search-suggestions {
+    width: 500px;          
+    margin: 20px auto 0;  
+    text-align: left;
+}
+
+#search-suggestions div {
+    padding: 10px 15px;
+    border-bottom: 1px solid #ccc;
+    font-size: 15px;
+    text-align: left;
 }
